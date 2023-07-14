@@ -1,0 +1,9 @@
+{
+	"name": "vikrantvaish-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a03c5c7-33dd-4219-b22c-4205d5a0da12",
+		"tenantId": "1be0c498-27cf-4fbe-8169-b5c6ec073962"
+	}
+}
